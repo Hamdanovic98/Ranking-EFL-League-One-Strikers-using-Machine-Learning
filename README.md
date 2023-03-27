@@ -2,7 +2,7 @@
 ## This is project that aims to rank strikers from EFL League One from best to worst using Machine Learning.
 ## This is a project on a real case study for a club in the EFL League one where the output is an excel file that contains the strikers ranked.
 ## The methodology is explained in the report but the dataset could be a little complex.
-### An explanation to some difficult features:
+### An explanation of some difficult features in the dataset:
 * [1] Dispossed: Number of times a player loses the ball by getting tackled.
 * [2] Turnovers: How often a player loses the ball via a miscontrol or a failed dribble.
 * [3] Over/Underperformance: Goals and assists above expectation. The difference between scoring contribution (actual contribution to goals) and xG & xG Assisted (expected contribution to goals).
