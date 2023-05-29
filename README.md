@@ -18,5 +18,4 @@
 * [13] Deep Progressions: Passes and dribbles/carries into the opposition final third.
 * [14] xGBuildup: A model that attributes the xG value of the final shot to all players involved in the entire possession. The buildup version omits xG and xG Assisted to focus on possession work prior to the end of the chain.
 * [15] xGChain: A model that attributes the xG value of the final shot to all players involved in the entire possession.
-* For OBV Metrics:
-* https://statsbomb.com/articles/soccer/introducing-on-ball-value-obv/ 
+* [16] For OBV Metrics: https://statsbomb.com/articles/soccer/introducing-on-ball-value-obv/ 
